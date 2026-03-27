@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contact App</string>
+
+    <!-- Personal Data Activity -->
+    <string name="personal_info_title">Personal Information</string>
+    <string name="first_name_label">First Name</string>
+    <string name="first_name_hint">Enter your first name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="last_name_hint">Enter your last name</string>
+    <string name="gender_label">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="birth_date_label">Date of Birth</string>
+    <string name="birth_date_hint">Select your date of birth</string>
+    <string name="change_button">Change</string>
+    <string name="education_label">Education Level</string>
+    <string name="education_hint">Select your education level</string>
+    <string name="next_button">Next</string>
+
+    <string-array name="education_levels">
+        <item>@string/education_primary</item>
+        <item>@string/education_secondary</item>
+        <item>@string/education_university</item>
+        <item>@string/education_other</item>
+    </string-array>
+
+    <!-- Education Levels -->
+    <string name="education_primary">Primary</string>
+    <string name="education_secondary">Secondary</string>
+    <string name="education_university">University</string>
+    <string name="education_other">Other</string>
+    <string name="education_select">Select education level</string>
+
+    <!-- Contact Data Activity -->
+    <string name="contact_info_title">Contact Information</string>
+    <string name="phone_label">Phone</string>
+    <string name="phone_hint">Enter your phone number</string>
+    <string name="address_label">Address</string>
+    <string name="address_hint">Enter your address</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="country_label">Country</string>
+    <string name="country_hint">Select a country</string>
+    <string name="city_label">City</string>
+    <string name="city_hint">Select a city</string>
+    <string name="finish_button">Finish</string>
+
+    <!-- Validation -->
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="data_saved">Data saved successfully</string>
+
+    <!-- Summary -->
+    <string name="summary_title">Summary</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="not_specified">Not specified</string>
+    <string name="restart_button">Restart</string>
+
+    <!-- Date Picker -->
+    <string name="select_date">Select Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <!-- Log Labels -->
+    <string name="log_personal_info">Personal Information:</string>
+    <string name="log_contact_info">Contact Information:</string>
+    <string name="log_phone">Phone:</string>
+    <string name="log_address">Address:</string>
+    <string name="log_email">Email:</string>
+    <string name="log_country">Country:</string>
+    <string name="log_city">City:</string>
+    <string name="log_born_on">Born on</string>
+</resources>
