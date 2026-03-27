@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Contactos</string>
+
+    <!-- Personal Data Activity -->
+    <string name="personal_info_title">Información Personal</string>
+    <string name="first_name_label">Nombres</string>
+    <string name="first_name_hint">Ingrese sus nombres</string>
+    <string name="last_name_label">Apellidos</string>
+    <string name="last_name_hint">Ingrese sus apellidos</string>
+    <string name="gender_label">Sexo</string>
+    <string name="gender_male">Hombre</string>
+    <string name="gender_female">Mujer</string>
+    <string name="birth_date_label">Fecha de Nacimiento</string>
+    <string name="birth_date_hint">Seleccione su fecha de nacimiento</string>
+    <string name="change_button">Cambiar</string>
+    <string name="education_label">Grado de Escolaridad</string>
+    <string name="education_hint">Seleccione su grado de escolaridad</string>
+    <string name="next_button">Siguiente</string>
+
+    <!-- Education Levels -->
+    <string name="education_primary">Primaria</string>
+    <string name="education_secondary">Secundaria</string>
+    <string name="education_university">Universitaria</string>
+    <string name="education_other">Otro</string>
+    <string name="education_select">Seleccione nivel educativo</string>
+
+    <!-- Contact Data Activity -->
+    <string name="contact_info_title">Información de Contacto</string>
+    <string name="phone_label">Teléfono</string>
+    <string name="phone_hint">Ingrese su número de teléfono</string>
+    <string name="address_label">Dirección</string>
+    <string name="address_hint">Ingrese su dirección</string>
+    <string name="email_label">Correo Electrónico</string>
+    <string name="email_hint">Ingrese su correo</string>
+    <string name="country_label">País</string>
+    <string name="country_hint">Seleccione un país</string>
+    <string name="city_label">Ciudad</string>
+    <string name="city_hint">Seleccione una ciudad</string>
+    <string name="finish_button">Finalizar</string>
+
+    <!-- Validation -->
+    <string name="field_required">Este campo es obligatorio</string>
+    <string name="invalid_email">Formato de correo inválido</string>
+    <string name="data_saved">Datos guardados correctamente</string>
+
+    <!-- Summary -->
+    <string name="summary_title">Resumen</string>
+    <string name="full_name_label">Nombre Completo</string>
+    <string name="not_specified">No especificado</string>
+    <string name="restart_button">Reiniciar</string>
+
+    <!-- Date Picker -->
+    <string name="select_date">Seleccionar Fecha</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Aceptar</string>
+
+    <!-- Log Labels -->
+    <string name="log_personal_info">Información personal:</string>
+    <string name="log_contact_info">Información de contacto:</string>
+    <string name="log_phone">Teléfono:</string>
+    <string name="log_address">Dirección:</string>
+    <string name="log_email">Email:</string>
+    <string name="log_country">País:</string>
+    <string name="log_city">Ciudad:</string>
+    <string name="log_born_on">Nació el</string>
+</resources>
